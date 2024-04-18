@@ -1,0 +1,8 @@
+browser chrome
+url http://localhost:8888
+username admin
+password admin
+
+RMG_URL http://rmgtestingserver/domain/Hospital_Management_System/hms/user-login.php
+Patient_User abcd@gmail.com
+Patient_Pass Mounika@123
